@@ -1,0 +1,15 @@
+body {
+  background-color: #111;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.form-control::placeholder {
+  color: #888;
+}
+
+a {
+  text-decoration: underline;
+}
+
+.table-dark tr + tr { border-top: 1px solid #2b2b2b; }
+
